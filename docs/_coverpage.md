@@ -4,4 +4,4 @@
 
   > FAQ
 
-[Get Started](quickstart.md)
+[Get Started](home.md)
